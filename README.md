@@ -1,4 +1,4 @@
-# Simple Stock Market Dashboard
+# Stock Market Dashboard
 
 ## Description
 
